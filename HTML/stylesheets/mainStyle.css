@@ -3,6 +3,43 @@ body {
   width: 100%;
 }
 
+
+/*MAJ*/
+
+.rebuild{
+  width: 100%;
+  height: 100vh;
+  background-color:  #0F0F21;
+  position: fixed;
+  z-index: 200000000;
+}
+
+.rebuild_img{
+  margin-top: 200px;
+  margin-left: 30%;
+  width: 700px;
+  height: 110px;
+}
+
+.rebuild_text{
+  margin-top: 150px;
+  color: #FFFFFF;
+  font-family: 'Tw Cen MT Condensed Extra Bold', sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  margin-left: 39%;
+}
+
+.rebuild_bar{
+  margin-top: 10px;
+  margin-left: 36%;
+  height: 4px;
+  width: 445px;
+  background-color: #F95738;
+}
+
+/*MAJ END*/
+
 .navContainer {
   background-color: #0F0F21;
   display: flex;
